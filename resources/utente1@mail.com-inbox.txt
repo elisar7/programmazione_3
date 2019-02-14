@@ -1,0 +1,2 @@
+utente2@mail.com % utente1@mail.com, utente3@mail.com % Prova % Inserisci qui il testo della tua email. % 2018/07/12 - 01:09
+utente2@mail.com % utente3@mail.com, utente1@mail.com % prova2 % miao % 2018/07/12 - 01:10
